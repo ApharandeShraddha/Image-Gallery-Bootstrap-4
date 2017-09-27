@@ -1,0 +1,121 @@
+
+
+	 	body{
+	 		padding-top: 70px;
+
+	 	}
+
+	 	.clr{
+        	
+        	background-color: gray;
+
+        }
+
+
+	 
+	 	.margin{
+	 		margin-top: 20px;
+	 	}
+
+	 	.jumbotron{
+	 		color: #2c3e50;
+	 		background-color: #ecf0f1;
+	 	}
+
+	 	.navbar-inverse{
+	 		background-color: gray;
+	 	}
+
+	 	.row.flex {
+	 		display: inline-flex;
+	 		width: 100%;
+	 	}
+	 	.flex {
+	 		display: flex;
+	 		flex-wrap: wrap;
+	 	}
+
+	 	.image1 {
+	 		background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/21616143_10213876117286830_4467147844255199319_n.jpg?oh=f9b00dab45670a212075720017efe6d6&oe=5A17846F");
+	 		
+	 	}
+
+	 	.image2 {
+	 		background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/21557604_10213876115166777_1561436328997427201_n.jpg?oh=1299469ecc3f05dcc0b2f1cb137e2ac1&oe=5A519A72");
+	 	}
+
+	 	.image3 {
+	 		background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/21463045_10213876120126901_1907976189529013780_n.jpg?oh=fd0a10592e58f88f1954095650fa6636&oe=5A4EF0FE");
+	 	}
+
+	 	.image4{
+	 		background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/21462644_10213876119526886_4183955024676311032_n.jpg?oh=d69e42b9e10f873205d6e54d04ce0159&oe=5A595A92");
+	 	}
+
+	 	.image5{
+	 		background: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/21432886_10213876102886470_5101240285664568901_n.jpg?oh=4068fbd053808fa43ea30215a7df0d60&oe=5A409945");
+	 	}
+
+	 	.image6{
+	 		background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/21272429_10207463280778464_8152936793935680856_n.jpg?oh=493d613cffa1dd8c32c5bca8b2460a58&oe=5A5E5D59");
+	 	}
+
+	 	.image7{
+	 		background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/20264582_10207214972610915_5011237335985047511_n.jpg?oh=9c42f6a4c7c4e70d50985ce690d83e87&oe=5A3FECD3");
+	 	}
+
+	 	.image8{
+	 		background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/21314706_10207468411066718_7106697974642968551_n.jpg?oh=fa78b33ee85509272cbd8e652c1c3e3c&oe=5A4956F7");
+	 	}
+
+	 	.image9{
+	 		background-image: url("https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/18670967_10206783480343878_7493355629793782075_n.jpg?oh=cc13686bc1834ea08e929a819c9c92c4&oe=5A48EFEC");
+	 	}
+        
+        
+
+	 	.image {
+	 		width: 100%;
+	 		height: 180px;
+	 		background-size: cover;
+	 		background-position: center center;
+	 	}
+
+      
+
+	 	a{
+	 		color: white;
+	 	}
+
+	 	.navbar-brand{
+	 		color: white;
+	 	}
+
+	 	.navbar-nav{
+	 		margin-right: 700px;
+	 	}
+
+
+     .jumbotron-billboard .img {
+    margin-bottom: 0px;
+    opacity: 0.2;
+    color: #fff;
+    background: #000 url("https://source.unsplash.com/feWi-_mR52M") center center;
+    width: 100%;
+    height: 100%;
+
+    background-size: cover;
+    overflow: hidden;
+    
+  
+  position:absolute;
+  top:0;left:0;
+  z-index:1;
+}
+.jumbotron {position:relative;padding:50px;}
+.jumbotron .container {z-index:2;
+ position:relative;
+  z-index:2;
+}
+
+	 	
